@@ -105,16 +105,16 @@ if __name__ == "__main__":
             codePath = "C:\Program Files\JetBrains\PyCharm Community Edition 2019.1.3 \\bin \pycharm.exe"
             os.startfile(codePath)
 
-        elif 'email to harry' in query:
+        elif 'email to Pritam' in query:
             try:
                 speak("What should I say?")
                 content = takeCommand()
-                to = "harryyourEmail@gmail.com"
+                to = "yourEmail@gmail.com"
                 sendEmail(to, content)
                 speak("Email has been sent!")
             except Exception as e:
                 print(e)
-                speak("Sorry my friend harry bhai. I am not able to send this email")
+                speak("Sorry my friend . I am not able to send this email")
 
 
 
