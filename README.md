@@ -1,11 +1,11 @@
-
-# Jarvis is a virtual assistant which can be used to automate your tasks.
+# Jarvis
+## Jarvis is a virtual assistant which can be used to automate your tasks.
 
 As it uses Windows Speech Engine to talk, this programme can run only in Windows operating system.(Linux Support Will Come Soon!)
 
   
 
-# What Jarvis can do
+## What Jarvis can do
 
 1. It can speak<br>
 
@@ -15,7 +15,7 @@ As it uses Windows Speech Engine to talk, this programme can run only in Windows
 
 4. It can open YouTube, Facebook on Google Chrome via voice command<br>
 
-# Requirments
+## Requirments
 
 ### Make sure that you have the latest version of Python installed.
 
@@ -39,5 +39,5 @@ Then Open CMD/Terminal and type : C:\Users\Programs\Python\Python37\Scripts add 
 - Say ```open special website``` to visit my website!
 
 ##### This app is still in development stage! Be sure to star the repository to get future updates.
-# Jarvis
+
 
