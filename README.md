@@ -36,8 +36,6 @@ Then Open CMD/Terminal and type : C:\Users\Programs\Python\Python37\Scripts add 
 
 - Be sure to change the application paths on assistant.py otherwise it wont open Google Chrome and other Apps. <br>
 
-- Say ```open special website``` to visit my website!
-
 ##### This app is still in development stage! Be sure to star the repository to get future updates.
 
 
